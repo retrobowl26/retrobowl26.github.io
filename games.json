@@ -5,8 +5,43 @@
         "image": "/cache/data/image/game/retro-bowl-26/retro-bowl-26-m186x186.webp"
     },
     {
+        "name": "Football Stars",
+        "slug": "football-stars",
+        "image": "/cache/data/image/game/football-stars/football-stars-m186x186.webp"
+    },
+    {
+        "name": "A Small World Cup",
+        "slug": "a-small-world-cup",
+        "image": "/cache/data/image/game/a-small-world-cup/a-small-world-cup-m186x186.webp"
+    },
+    {
+        "name": "Soccer Physics",
+        "slug": "soccer-physics",
+        "image": "/cache/data/image/game/soccer-physics/soccer-physics-m186x186.webp"
+    },
+    {
+        "name": "NFL Retro Bowl 25",
+        "slug": "nfl-retro-bowl-25",
+        "image": "/cache/data/image/game/nfl-retro-bowl-25/retro-bowl-25-m186x186.webp"
+    },
+    {
+        "name": "Retro Bowl College",
+        "slug": "retro-bowl-college",
+        "image": "/cache/data/image/game/retro-bowl-college/retro-bowl-college-game-m186x186.webp"
+    },
+    {
         "name": "Football Bros",
         "slug": "football-bros",
         "image": "/cache/data/image/game/football-bros/football-bros-m186x186.webp"
+    },
+    {
+        "name": "Soccer Random",
+        "slug": "soccer-random",
+        "image": "/cache/data/image/game/soccer-random/soccer-random-game-m186x186.webp"
+    },
+    {
+        "name": "Soccer Legends",
+        "slug": "soccer-legends",
+        "image": "/cache/data/image/game/soccer-legends/soccer-legends-m186x186.webp"
     }
 ]
